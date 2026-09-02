@@ -1,7 +1,7 @@
 # 👋🏻 Hello, I am Recal Prasetyo
 
 ### Check out my:
-<a href="https://recal-portfolio.vercel.app">Portfolio</a>
+<a href="https://recalprasetyo.vercel.app">Portfolio</a>
   ·
 <a href="https://www.linkedin.com/in/recalprasetyo">LinkedIn</a>
   ·
