@@ -33,8 +33,8 @@
 
 ## GitHub Statistics
 <p align="center">
-  <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=recalprasetyo&hide_progress=true&theme=dark#gh-dark-mode-only" /> -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=recalprasetyo&layout=compact&theme=dark#gh-dark-mode-only" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=recalprasetyo&hide_progress=true&theme=dark#gh-dark-mode-only" />
+  <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=recalprasetyo&layout=compact&theme=dark#gh-dark-mode-only" /> -->
 </p>
 
 <p>
